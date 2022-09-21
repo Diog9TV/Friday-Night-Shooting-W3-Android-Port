@@ -1,22 +1,49 @@
 {
 	"songs": [
-		["Pico", "pico", [148, 22, 83]],
-		["Philly Nice", "pico", [148, 22, 83]],
-		["Blammed", "pico", [148, 22, 83]]
+		[
+			"Mind Over Matter",
+			"Alucard",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"Technokinesis",
+			"Alucard",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"Rhythmic Ascension",
+			"Alucard",
+			[
+				146,
+				113,
+				253
+			]
+		]
 	],
-
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"difficulties": "",
 	"weekCharacters": [
-		"pico",
-		"bf",
-		"gf"
+		"Alucard",
+		"Pico",
+		"GF_BF"
 	],
-	"weekBackground": "philly",
-
-	"storyName": "PICO",
-	"weekBefore": "week2",
-	"weekName": "Week 3",
-	"startUnlocked": true,
-
+	"storyName": "Mind Games",
+	"weekName": "Alucard",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
 	"hideStoryMode": false,
-	"hideFreeplay": false
+	"weekBefore": "tutorial",
+	"startUnlocked": true
 }

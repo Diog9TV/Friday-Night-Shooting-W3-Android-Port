@@ -1,22 +1,49 @@
 {
 	"songs": [
-		["Spookeez", "spooky", [34, 51, 68]],
-		["South", "spooky", [34, 51, 68]],
-		["Monster", "monster", [34, 51, 68]]
+		[
+			"Adobethrash",
+			"Piconjo",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"Piconjos School",
+			"Piconjo",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"Trapped in teh 6aym",
+			"Piconjo",
+			[
+				146,
+				113,
+				253
+			]
+		]
 	],
-
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"difficulties": "",
 	"weekCharacters": [
-		"spooky",
-		"bf",
-		"gf"
+		"Piconjo",
+		"Pico",
+		"GF_BF"
 	],
-	"weekBackground": "halloween",
-
-	"storyName": "Spooky Month",
-	"weekBefore": "week1",
-	"weekName": "Week 2",
-	"startUnlocked": true,
-
+	"storyName": "Nothing, By Nobody",
+	"weekName": "Piconjo",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
 	"hideStoryMode": false,
-	"hideFreeplay": false
+	"weekBefore": "tutorial",
+	"startUnlocked": true
 }

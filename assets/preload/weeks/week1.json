@@ -1,22 +1,49 @@
 {
-	"songs": [
-		["Bopeebo", "dad", [146, 113, 253]],
-		["Fresh", "dad", [146, 113, 253]],
-		["Dad Battle", "dad", [146, 113, 253]]
-	],
-
-	"weekCharacters": [
-		"dad",
-		"bf",
-		"gf"
-	],
-	"weekBackground": "stage",
-
-	"storyName": "Daddy Dearest",
+	"storyName": "Nene's Slumber Party!",
+	"difficulties": "",
+	"hideFreeplay": false,
+	"weekBackground": "",
 	"weekBefore": "tutorial",
-	"weekName": "Week 1",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
 	"startUnlocked": true,
-
 	"hideStoryMode": false,
-	"hideFreeplay": false
+	"songs": [
+		[
+			"Smooth",
+			"Nene",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"Gossip",
+			"Nene",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"TeenSuicide",
+			"Nene",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"weekCharacters": [
+		"Nene",
+		"pico",
+		"GF_BF"
+	],
+	"weekName": "Nene"
 }
