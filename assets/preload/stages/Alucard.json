@@ -1,0 +1,9 @@
+{
+	"directory": "Images/Nene/Day",
+	"defaultZoom": 1.05,
+	"isPixelStage": false,
+
+	"boyfriend": [1170, 550],
+	"girlfriend": [1000, 570],
+	"opponent": [600, 630]
+}
