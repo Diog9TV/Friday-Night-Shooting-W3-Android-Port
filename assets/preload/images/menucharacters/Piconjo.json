@@ -1,0 +1,10 @@
+{
+	"idle_anim": "spooky dance idle BLACK LINE",
+	"image": "default",
+	"position": [
+		150,
+		140
+	],
+	"scale": 0.45,
+	"confirm_anim": "BF HEY!!"
+}

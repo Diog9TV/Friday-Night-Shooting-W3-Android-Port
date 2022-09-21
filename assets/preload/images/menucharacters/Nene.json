@@ -1,0 +1,10 @@
+{
+	"idle_anim": "Pico Idle Dance",
+	"image": "default",
+	"position": [
+		90,
+		-90
+	],
+	"scale": 1.3,
+	"confirm_anim": "BF HEY!!"
+}

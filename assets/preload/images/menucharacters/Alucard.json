@@ -1,0 +1,10 @@
+{
+	"idle_anim": "Alucard",
+	"image": "default",
+	"position": [
+		210,
+		110
+	],
+	"scale": 0.7,
+	"confirm_anim": "BF HEY!!"
+}
