@@ -1,0 +1,43 @@
+
+function start(song)
+{
+}
+
+
+function beatHit(beat)
+{
+}
+
+function update(elapsed)
+{
+}
+
+function stepHit(step)
+{
+}
+
+function playerTwoTurn()
+{
+FlxTween.tween(FlxG.camera, {zoom: 0.85}, 0.1, {ease: FlxEase.expoOut,});
+}
+
+function playerTwoMiss()
+{
+}
+
+function playerTwoSing()
+{
+FlxTween.tween(FlxG.camera, {zoom: 0.90}, 0.1, {ease: FlxEase.expoOut,});
+}
+
+function playerOneTurn()
+{
+}
+
+function playerOneMiss()
+{
+}
+
+function playerOneSing()
+{
+}
